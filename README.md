@@ -1,5 +1,3 @@
-# World-Economic-Report
-Highlights key insights on the state of the global economy.
 #  World Economic Report 
 
 ###  Overview
@@ -9,13 +7,13 @@ Key insights include **GDP growth trends**, **HDI improvements**, **life expecta
 ###  Dataset Sources:
 - World Bank and United Nations Development Programme
 
-### ⚙ Technologies Used:
+###  Technologies Used:
 - **Python** (Pandas, Matplotlib, Seaborn)
 - **Data Visualization**
   
 ### Key Insights:
-- **East Asia’s Economic Rise** 🌏  
-- **HDI Growth in Developing Nations** 📈  
-- **Electricity as a Key Factor for Development** ⚡  
-- **Wealthier Nations Have Longer Life Expectancy** ⏳ 
+- **East Asia’s Economic Rise** 
+- **HDI Growth in Developing Nations** 
+- **Electricity as a Key Factor for Development** 
+- **Wealthier Nations Have Longer Life Expectancy**
 
